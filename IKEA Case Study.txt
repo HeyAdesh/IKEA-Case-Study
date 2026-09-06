@@ -1,0 +1,27 @@
+IKEA Case Study 
+File:Ikea logo.svg - Wikimedia Commons
+
+Background 
+
+IKEA entered India with stores in Hyderabad, Mumbai, and Bengaluru targeting urban middle-class buyers. First-purchase numbers looked strong. Repeat purchases didn't follow. 
+
+Urban customers buy once and disappear. Management has asked you to investigate why and identify the real opportunity spaces before any solution is proposed. 
+
+What the Data Shows 
+
+58% of urban first-time buyers don't return within 12 months 
+Post-purchase support tickets (assembly issues, missing parts, delivery delays) up 24% YoY 
+Exit surveys flag IKEA as "too far, too overwhelming, too effortful" and this feedback has never been formally analyzed 
+The digital team tracks sessions and the store team tracks footfall with no shared retention metric between them 
+Competitors like Pepperfry and Urban Ladder are picking up customers after their first IKEA visit 
+Nobody agrees on what's wrong. No structured research has been done. 
+
+Your Task 
+
+Before any solution is proposed, your job is to understand the problem. 
+
+Start by identifying the real opportunity spaces hiding inside this data. Not symptoms, but the deeper unmet needs. Then decide which one deserves attention first and justify your choice using a prioritization framework. 
+
+To investigate that opportunity, design a small but purposeful research plan. Decide what kind of research fits this situation and why. Write the core questions you would ask customers in a one-on-one conversation covering their experience from first purchase to why they never came back. 
+
+The research team has proposed interviewing only customers who left positive reviews. Call out what is wrong with this approach and suggest how you would fix it. 
